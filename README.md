@@ -25,15 +25,18 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python and Django**
 
-- 👯 I’m looking to collaborate on **JavaScript or Python projects**
+- 👯 I’m looking to collaborate on **JavaScript or Python Projects**
+
+- 🔭 I’m currently working on **An Inventory Tracking App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vickitaylor?tab=repositories](https://github.com/vickitaylor?tab=repositories)
 
-- 💬 Ask me about **react or JavaScript**
+- 💬 Ask me about **React or JavaScript**
 
 - 📫 How to reach me **vtaylor85@live.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15XQ-2EKDOHqFf6bO5MSuvstqkB4bwdGM/view?usp=sharing](https://drive.google.com/file/d/15XQ-2EKDOHqFf6bO5MSuvstqkB4bwdGM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15XQ-2EKDOHqFf6bO5MSuvstqkB4bwdGM/view?usp=sharing](https://drive.google.com/file/d/1FXcx0KkNptOXbnF8syXwRWZcL_Fgp0SL/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
