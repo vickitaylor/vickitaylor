@@ -21,21 +21,21 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm Vicki Taylor</h1>
-<h3 align="center">A passionate full-stack developer in Nashville, Tn</h3>
+<h3 align="center">A passionate full-stack developer in Nashville, Tn, who recently graduated from Nashville Software School September 2022.</h3>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **JavaScipt, React, Python and Django**
 
 - 👯 I’m looking to collaborate on **JavaScript or Python Projects**
 
 - 🔭 I’m currently working on **An Inventory Tracking App**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vickitaylor?tab=repositories](https://github.com/vickitaylor?tab=repositories)
+- 👨‍💻 [All of my projects are available](https://github.com/vickitaylor?tab=repositories)
 
-- 💬 Ask me about **React or JavaScript**
+- 💬 Ask me about **React, JavaScript, or Python**
 
 - 📫 How to reach me **vtaylor85@live.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15XQ-2EKDOHqFf6bO5MSuvstqkB4bwdGM/view?usp=sharing](https://drive.google.com/file/d/1FXcx0KkNptOXbnF8syXwRWZcL_Fgp0SL/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1I2G9zwyU4FrvSxYuGsjj4fIbSYK3W8-F/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
