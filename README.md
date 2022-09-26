@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **An Inventory Tracking App**
 
-- 👨‍💻 [All of my projects are available](https://github.com/vickitaylor?tab=repositories)
+- 👨‍💻 [All of my projects are available here](https://github.com/vickitaylor?tab=repositories)
 
 - 💬 Ask me about **React, JavaScript, or Python**
 
 - 📫 How to reach me **vtaylor85@live.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1I2G9zwyU4FrvSxYuGsjj4fIbSYK3W8-F/view?usp=sharing)
+- 📄 [Click for my experiences](https://drive.google.com/file/d/1I2G9zwyU4FrvSxYuGsjj4fIbSYK3W8-F/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
