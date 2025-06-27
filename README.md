@@ -19,27 +19,27 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there 👋, I'm Vicki</h1>
+<h1 align="center">Hi there 👋 I'm Vicki</h1>
 <h3 align="center">Solving Business Problems with Data in Nashville, Tn</h3>
 
 - 🚀 Driven and detail-oriented data professional with over ten years in finance, now building solutions with data
 
-- 🌱  I’m currently expanding my skills in  **Data Science & Engineering, focusing on Python, R, SQL, Machine Learning with scikit-learn, and cloud data services**
+- 🌱  I’m currently expanding my skills in:  **Data Science & Engineering, focusing on Python, R, SQL, Machine Learning with scikit-learn, and cloud data services**
 
-- 👯 I’m looking to collaborate on **Data projects, including those involving predictive analytics, business intelligence, data pipeline orchestration, or ETL development.**
+- 👯 I’m looking to collaborate on: **Data projects, including those involving predictive analytics, business intelligence, data pipeline orchestration, or ETL development.**
 
-- 🔭 I’m currently working on **my Nashville Software School Capstone: a Machine Learning project to predict holiday spending based on economic indicators for December 2025**
+- 🔭 I’m currently working on: **my Nashville Software School Capstone: a Machine Learning project to predict holiday spending based on economic indicators for December 2025**
 
- - 💬 Ask me about **Data analysis, SQL, Python, and cloud data concepts**
+ - 💬 Ask me about: **Data analysis, SQL, Python, and cloud data concepts**
 
 - ⚡ Fun fact: **For fun I scuba dive 🐟🦈**
 
-- 🛠️ My toolkit include **SQL, Python, Pandas, R, Power BI, and Azure/GCP**
+- 🛠️ My toolkit includes: **SQL, Python, Pandas, R, Power BI, and Azure/GCP**
 
-- 📫 How to reach me **vtaylor85@live.com**
-- 👨‍💻 [All of my projects are available here](https://github.com/vickitaylor?tab=repositories)
+ - 📫 How to reach me: **vtaylor85@live.com**
+<!-- - 👨‍💻 [All of my projects are available here](https://github.com/vickitaylor?tab=repositories) -->
 
-- 📄 [Click for my experiences](https://drive.google.com/file/d/1I2G9zwyU4FrvSxYuGsjj4fIbSYK3W8-F/view?usp=sharing)
+- 📄 [Click for my experiences](https://drive.google.com/file/d/1GkPmkPxPduWU873XtwGsl21vH0PyO3j7/view?usp=sharing)
 
 
 
@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickitaylor&show_icons=true&locale=en&layout=compact" alt="vickitaylor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickitaylor&" alt="vickitaylor" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickitaylor&show_icons=true&locale=en" alt="vickitaylor" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickitaylor&" alt="vickitaylor" /></p>
 
 
 
