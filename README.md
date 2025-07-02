@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  - 📫 How to reach me: **vtaylor85@live.com**
 <!-- - 👨‍💻 [All of my projects are available here](https://github.com/vickitaylor?tab=repositories) -->
 
-- 📄 [Click for my experiences](https://drive.google.com/file/d/1GkPmkPxPduWU873XtwGsl21vH0PyO3j7/view?usp=sharing)
+- 📄 [Click for my experiences](https://drive.google.com/file/d/1oN0NjTSOB7PZl_2rzrbvQ4IMrUUlrtVD/view?usp=sharing)
 
 
 
