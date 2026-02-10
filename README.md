@@ -20,26 +20,33 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋 I'm Vicki</h1>
-<h3 align="center">Solving Business Problems with Data in Nashville, Tn</h3>
+<h3 align="center">Solving Business Problems with Data in Nashville, TN</h3>
 
+<!--
 - 🚀 Driven and detail-oriented data professional with over ten years in finance, now building solutions with data
 
 - 🌱  I’m currently expanding my skills in:  **Data Science & Engineering, focusing on Python, R, SQL, Machine Learning with scikit-learn, and cloud data services**
 
 - 👯 I’m looking to collaborate on: **Data projects, including those involving predictive analytics, business intelligence, data pipeline orchestration, or ETL development.**
-
 - 🔭 I’m currently working on: **my Nashville Software School Capstone: a Machine Learning project to predict holiday spending based on economic indicators for December 2025**
+-->
+  
+- 🚀 Driven and detail-oriented data professional with over ten years in finance, now delivering SQL-driven analytics and business intelligence solutions in enterprise environments
 
- - 💬 Ask me about: **Data analysis, SQL, Python, and cloud data concepts**
+- 🧠 Focused on: **SQL-driven analytics, data modeling, Power BI reporting, and Python-based analysis—building reliable, decision-ready datasets and insights**
+
+- 👯 I’m looking to collaborate on: **Data projects involving analytics, business intelligence, predictive modeling, data validation, or analytics-engineering–adjacent work**
+
+ - 💬 Ask me about: **SQL analysis, data modeling, Python, and cloud data concepts**
 
 - ⚡ Fun fact: **For fun I scuba dive 🐟🦈**
 
-- 🛠️ My toolkit includes: **SQL, Python, Pandas, R, Power BI, and Azure/GCP**
+- 🛠️ My toolkit includes: **SQL, Python, Pandas, R, Power BI, Azure, and GCP**
 
  - 📫 How to reach me: **vtaylor85@live.com**
 <!-- - 👨‍💻 [All of my projects are available here](https://github.com/vickitaylor?tab=repositories) -->
 
-- 📄 [Click for my experiences](https://drive.google.com/file/d/1oN0NjTSOB7PZl_2rzrbvQ4IMrUUlrtVD/view?usp=sharing)
+- 📄 [Click for my experiences](https://drive.google.com/file/d/1Wl6DVVtiuYOkpDORQEZaheMHLzd3Dg4g/view?usp=sharing)
 
 
 
